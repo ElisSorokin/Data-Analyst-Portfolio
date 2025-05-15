@@ -1,1 +1,162 @@
-# Random
+# Сорокин Елисей  - Data Analyst Portfolio
+## Обо мне 
+Привет! Меня зовут Сорокин Елисей! У меня есть прочная база в математике и статистике, а также опыт обучения в области экономики и финансов в университете Tor Vergata в Риме. Сейчас я активно развиваюсь в сфере анализа данных и применяю полученные знания на практике.
+
+В процессе обучения и работы я освоил работу с большими и сложными данными, анализировал пользовательское поведение, строил метрики и проверял гипотезы с помощью Python и SQL. Также я получил опыт проведения статистических тестов и A/B-тестирования для принятия обоснованных решений.
+
+В свободное время я изучаю новые инструменты для анализа и визуализации данных, совершенствую навыки программирования и статистики. Мне нравится работать как в команде, так и самостоятельно, всегда стремлюсь находить новые инсайты и применять знания для решения реальных бизнес-задач.
+
+My CV in [pdf].
+
+Это репозиторий, в котором я демонстрирую свои навыки, делюсь проектами и отслеживаю прогресс в области анализа данных и Data Science.
+
+## Table of Contents
+- [Обо мне](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5)
+- [Проекты](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
+  - Python & SQL
+    - [Afisha Perfomance](https://github.com/ElisSorokin/Random/edit/main/README.md#afisha-perfomance)
+  - Python
+    - [Книги и e-коммерс](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-e-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81)
+    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+  - SQL
+    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+  - Excel / Google Sheets
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Power BI
+  
+
+
+- [Образование](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) 
+- [Контакты](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
+## Проекты
+В этом разделе представлены проекты по анализу данных с кратким описанием задач и используемого технологического стека.
+
+### Afisha Perfomance 
+**Code:** [`Afisha_Perfomance.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+[`Afisha_Perfomance.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+
+**Цель:** Построить дашборд для отслеживания бизнес-показателей и провести исследовательский анализ пользовательского поведения в сервисе «Яндекс Афиша».
+
+**Описание:** В рамках проекта выступал в роли аналитика команды Яндекс Афиши. Нужно было подготовить дашборд в Yandex DataLens с ключевыми метриками и провести исследовательский анализ в Python. Задача включала анализ пользовательских предпочтений осенью 2024 года и проверку гипотез о поведении мобильных и десктопных пользователей.
+
+**Что сделал:**
+- Загрузил, очистил и подготовил данные, добавил признаки (выручка, средний чек, сезонность)
+- Рассчитал метрики: выручка, средняя стоимость билета, распределения по категориям
+- Построил дашборд в Yandex DataLens с фильтрами, сегментацией и динамикой по KPI
+- Провёл EDA в Python и проверил гипотезу о различии активности пользователей на мобильных и десктопах (тест Манна-Уитни)
+- Выявил поведенческие тренды, сезонные паттерны и особенности популярных мероприятий
+
+**Навыки:** SQL, Python, визуализация, сегментация, проверка гипотез, построение метрик
+
+**Технологии:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, SQL, Yandex DataLens.
+
+**Результаты:** 
+- Осенью заказов было в 2.5 раза больше, чем летом
+- Мобильные пользователи активнее (8.73 заказа против 6.66, p < 0.0001)
+- Наиболее популярны театральные, семейные и спортивные мероприятия
+- Поведение пользователей носит недельную цикличность (пики по вторникам и четвергам)
+
+**Выводы и рекомендации:**
+- Развивать мобильное направление
+- Запускать сезонные маркетинговые кампании
+- Продвигать семейные события и развивать партнёрства в регионах
+
+---
+### Книги и e-коммерс
+**Code:** [`Книги и e-коммерс.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+
+**Цель:** Анализ пользовательской активности в Яндекс.Книгах и оценка эффективности нового интерфейса интернет-магазина BitMotion Kit по результатам A/B-тестирования.
+
+**Описание:** Проект включает два независимых кейса. В первом анализировалась активность пользователей из разных городов на платформе Яндекс.Книги, во втором — данные A/B-теста интернет-магазина, направленного на улучшение конверсии. Требовалось рассчитать метрики, проверить гипотезы, проанализировать корректность эксперимента и интерпретировать результаты.
+
+**Что сделал:**
+- Загрузил и предобработал данные, устранил дубликаты
+- Рассчитал метрики и подготовил выборки для анализа активности по городам
+- Провёл t-тест и тест Манна–Уитни для проверки различий между Москвой и Санкт-Петербургом
+- Проанализировал корректность проведения A/B-теста (распределение, пересечения, разбалансировка)
+- Рассчитал конверсии, провёл z-тест для оценки различий между контрольной и тестовой группами
+- Подготовил аналитическую записку с бизнес-интерпретацией
+
+**Навыки:** статистический анализ, проверка гипотез, анализ A/B-тестов, очистка данных
+
+**Технологии:** Python, Pandas, SciPy, Statsmodels, SQL
+
+**Результаты:** 
+- Различия в активности пользователей из СПб и Москвы статистически незначимы (p > 0.05)
+- Распределения времени имеют асимметрию — медиана устойчивее к выбросам
+- A/B-тест показал значимый рост конверсии в тестовой группе на 1.7 п.п. (p-value = 0.0283)
+
+**Вывод:** Новая версия интерфейса положительно влияет на конверсию. Рекомендовано внедрение.
+
+---
+### A/B Тесты 
+**Code:** [`A/B тест.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+
+**Цель:** Оценка влияния нового алгоритма рекомендаций на поведение пользователей в приложении с помощью корректно спланированного и проведённого A/B-теста.
+
+**Описание:**Проект посвящён полному циклу работы с A/B-тестом: от расчёта необходимого объема выборки до анализа результатов и формулирования бизнес-выводов. Исследуется влияние нового алгоритма рекомендаций на успешность сессий в мобильном приложении.
+
+**Что сделал:**
+- Проанализировал число регистраций и распределение пользователей по группам
+- Рассчитал среднее количество просмотренных страниц в сессиях
+- Подготовил параметры теста (α, β, MDE, размер выборки)
+- Проверил корректность распределения, сбалансированность по группам и длительность эксперимента
+- Оценил статистическую значимость различий с помощью z-теста
+- Сформулировал интерпретации и рекомендации
+
+**Навыки: **  A/B-тестирование, проверка гипотез, оценка достоверности, исследовательский анализ
+Технологии: Python, Pandas, SciPy, Statsmodels
+
+**Результаты:**
+- Необходимый размер выборки: 17 441 пользователей на группу
+- Фактический размер: 15 163 в A, 15 416 в B, тест длился 4 дня
+- Доля успешных сессий: 30.8% (A) против 31.8% (B)
+- p-value = 0.00015 → статистически значимое улучшение
+- Но: эффект слишком мал для практической реализации
+
+**Вывод: Несмотря на статистическую значимость, прирост успешных сессий составляет всего 1.1%. Рекомендуется провести повторный тест с большей выборкой и длительностью для уточнения эффекта.
+
+
+### Covid 19 Data Exploration
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** SQL Server
+
+
+
+### Legendary Pokémon Analysis
+
+**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+
+**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+
+**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** Tidyverse 
+
+
+
+
+## Образование
+Университет Тор Вергата, Рим: 
+Бакалавриат, экономика и финансы,
+2018 – 2021 (неоконченное обучение)
+
+Математическая школа
+Среднее образование, профиль – математика
+
+Курсы:
+Аналитика данных, Яндекс Практикум
+Курс Основы статистики (с отличием)
+
+
+## Контакты 
+- LinkedIn: [@elisei sorokin](www.linkedin.com/in/elisei-sorokin-8b6106193)
+- Email: eliseisorokin.work@yandex.ru
