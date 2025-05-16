@@ -31,6 +31,7 @@ My CV in [pdf].
 ### Afisha Perfomance 
 **Code:** [`Afisha_Perfomance.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 [`Afisha_Perfomance.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+[`Afisha_Perfomance Dashboard`](https://datalens.yandex/cnchy35jrh7ky)
 
 **Цель:** Построить дашборд для отслеживания бизнес-показателей и провести исследовательский анализ пользовательского поведения в сервисе «Яндекс Афиша».
 
@@ -116,7 +117,7 @@ My CV in [pdf].
 
 ### Data-доставка — аналитика метрик сервиса доставки еды
 **Code:** [`Data-доставка.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
+[`Data-доставка Dashboard`](https://datalens.yandex/eds6ox6bcyqs0)
 **Цель:** Рассчитать ключевые метрики для продукта, визуализировать их в интерактивном дашборде и на основе анализа предложить рекомендации для развития сервиса.
 
 **Описание:** Выступая в роли аналитика сервиса доставки еды «Самокат», я разработал SQL-запросы для оценки динамики DAU, конверсии, среднего чека, LTV и Retention Rate. На основе этих данных построил дашборд в Yandex DataLens и сформулировал аналитические рекомендации.
@@ -146,7 +147,7 @@ My CV in [pdf].
 
 ### Property Pulse — Аналитика рынка недвижимости СПб и Ленобласти
 **Code:** [`Property Pulse.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-[`Property Pulse Dashboard`]()
+[`Property Pulse Dashboard`](https://datalens.yandex/0hi85722buzen)
 
 **Цель:** Определить наиболее перспективные сегменты рынка недвижимости в Санкт-Петербурге и Ленинградской области с учетом сезонных факторов, чтобы предложить бизнес-решения для оптимизации продаж и маркетинга.
 
