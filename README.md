@@ -29,7 +29,7 @@ My CV in [pdf].
 ## Проекты
 В этом разделе представлены проекты по анализу данных с кратким описанием задач и используемого технологического стека.
 
-### Afisha Perfomance 
+### Afisha Perfomance — Исследование пользовательской активности и сезонных трендов 2024
 **Code:** [`Afisha_Perfomance.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 [`Afisha_Perfomance.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 [`Afisha_Perfomance Dashboard`](https://datalens.yandex/cnchy35jrh7ky)
