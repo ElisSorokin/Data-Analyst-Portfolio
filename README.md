@@ -30,8 +30,8 @@ My CV in [pdf].
 В этом разделе представлены проекты по анализу данных с кратким описанием задач и используемого технологического стека.
 
 ### Afisha Perfomance — Исследование пользовательской активности и сезонных трендов 2024
-**Code:** [`Afisha_Perfomance.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
-[`Afisha_Perfomance.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [`Afisha_Perfomance.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT%20(Final)%20-%20Afisha%20Perfomance.ipynb)
+[`Afisha_Perfomance.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Afisha%20Perfomance.sql)
 [`Afisha_Perfomance Dashboard`](https://datalens.yandex/cnchy35jrh7ky)
 
 **Цель:** Построить дашборд для отслеживания бизнес-показателей и провести исследовательский анализ пользовательского поведения в сервисе «Афиша».
@@ -62,7 +62,7 @@ My CV in [pdf].
 
 ---
 ### Books & Conversion — Анализ пользовательской активности и A/B-тест интерфейса
-**Code:** [`Books & Conversion.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Code:** [`Books & Conversion.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT6%20-%20Books%20%26%20Conversion%20%E2%80%94%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0.ipynb)
 
 **Цель:** Анализ пользовательской активности в Яндекс.Книгах и оценка эффективности нового интерфейса интернет-магазина BitMotion Kit по результатам A/B-тестирования.
 
@@ -89,7 +89,7 @@ My CV in [pdf].
 
 ---
 ### Recommendation Boost — A/B-тест нового алгоритма в приложении
-**Code:** [`Recommendation Boost.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+**Code:** [`Recommendation Boost.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT5%20-%20Recommendation%20Boost%20%E2%80%94%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.ipynb)
 
 **Цель:** Оценка влияния нового алгоритма рекомендаций на поведение пользователей в приложении с помощью корректно спланированного и проведённого A/B-теста.
 
@@ -117,7 +117,7 @@ My CV in [pdf].
 
 
 ### Data-доставка — аналитика метрик сервиса доставки еды
-**Code:** [`Data-доставка.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+**Code:** [`Data-доставка.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Data%20-%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.sql)
 [`Data-доставка Dashboard`](https://datalens.yandex/eds6ox6bcyqs0)
 **Цель:** Рассчитать ключевые метрики для продукта, визуализировать их в интерактивном дашборде и на основе анализа предложить рекомендации для развития сервиса.
 
@@ -147,7 +147,7 @@ My CV in [pdf].
 
 
 ### Property Pulse — Аналитика рынка недвижимости СПб и Ленобласти
-**Code:** [`Property Pulse.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+**Code:** [`Property Pulse.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Property%20Pulse.sql)
 [`Property Pulse Dashboard`](https://datalens.yandex/0hi85722buzen)
 
 **Цель:** Определить наиболее перспективные сегменты рынка недвижимости в Санкт-Петербурге и Ленинградской области с учетом сезонных факторов, чтобы предложить бизнес-решения для оптимизации продаж и маркетинга и визуализировать ключевые метрики на интерактивном дашборде.
@@ -177,7 +177,7 @@ My CV in [pdf].
 - Применять регионально-ориентированные маркетинговые стратегии
 
 ### DarkForest — Анализ поведения игроков и внутриигровых покупок
-**Code:** [`DarkForest.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+**Code:** [`DarkForest.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20DarkForest.sql)
 
 **Цель:** Исследовать поведение игроков в фэнтези-игре «Секреты Темнолесья»: определить, кто чаще покупает внутриигровую валюту за реальные деньги, и как совершаются крупные внутриигровые покупки.
 
