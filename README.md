@@ -11,20 +11,20 @@ My CV in [pdf].
 Это репозиторий, в котором я демонстрирую свои навыки, делюсь проектами и отслеживаю прогресс в области анализа данных и Data Science.
 
 ## Содержание
-- [Обо мне](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5)
-- [Проекты](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
+- [Обо мне](https://github.com/ElisSorokin/Data-Analyst-Portfolio#%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5)
+- [Проекты](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
   - Python & SQL
-    - [Afisha Perfomance](https://github.com/ElisSorokin/Random/edit/main/README.md#afisha-perfomance)
+    - [Afisha Perfomance](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#afisha-perfomance--%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D1%80%D0%B5%D0%BD%D0%B4%D0%BE%D0%B2-2024)
   - Python
-    - [Books & Conversion — Анализ пользовательской активности и A/B-тест интерфейса](https://github.com/ElisSorokin/Random/edit/main/README.md#books--conversion--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-ab-%D1%82%D0%B5%D1%81%D1%82-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0)
-    - [Recommendation Boost — A/B-тест нового алгоритма в приложении](https://github.com/ElisSorokin/Random/edit/main/README.md#recommendation-boost--ab-%D1%82%D0%B5%D1%81%D1%82-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8)
+    - [Books & Conversion — Анализ пользовательской активности и A/B-тест интерфейса](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#books--conversion--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-ab-%D1%82%D0%B5%D1%81%D1%82-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0)
+    - [Recommendation Boost — A/B-тест нового алгоритма в приложении](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#recommendation-boost--ab-%D1%82%D0%B5%D1%81%D1%82-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8)
   - SQL
-    - [Data-доставка — аналитика метрик сервиса доставки еды](https://github.com/ElisSorokin/Random/edit/main/README.md#data-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B5%D0%B4%D1%8B)
-    - [Property Pulse — Аналитика рынка недвижимости СПб и Ленобласти](https://github.com/ElisSorokin/Random/edit/main/README.md#property-pulse--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%BF%D0%B1-%D0%B8-%D0%BB%D0%B5%D0%BD%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8)
-    - [DarkForest — Анализ поведения игроков и внутриигровых покупок](https://github.com/ElisSorokin/Random/edit/main/README.md#darkforest--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2-%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA)
+    - [Data-доставка — аналитика метрик сервиса доставки еды](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#data-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B5%D0%B4%D1%8B)
+    - [Property Pulse — Аналитика рынка недвижимости СПб и Ленобласти](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#property-pulse--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%BF%D0%B1-%D0%B8-%D0%BB%D0%B5%D0%BD%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8)
+    - [DarkForest — Анализ поведения игроков и внутриигровых покупок](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#darkforest--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2-%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA)
   
-- [Образование](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) 
-- [Контакты](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
+- [Образование](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) 
+- [Контакты](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
 
 ## Проекты
 В этом разделе представлены проекты по анализу данных с кратким описанием задач и используемого технологического стека.
