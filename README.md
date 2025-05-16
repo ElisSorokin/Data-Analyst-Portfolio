@@ -115,7 +115,7 @@ My CV in [pdf].
 
 **Вывод: Несмотря на статистическую значимость, прирост успешных сессий составляет всего 1.1%. Рекомендуется провести повторный тест с большей выборкой и длительностью для уточнения эффекта.
 
-
+---
 ### Data-доставка — аналитика метрик сервиса доставки еды
 **Код:** [`Data-доставка.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Data%20-%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.sql)
 [`Data-доставка Dashboard`](https://datalens.yandex/eds6ox6bcyqs0)
@@ -146,7 +146,7 @@ My CV in [pdf].
 - Внедрить персонализированные промо и улучшить onboarding
 - Укрепить партнёрство с лидерами по LTV и расширить ассортимент
 
-
+---
 ### Property Pulse — Аналитика рынка недвижимости СПб и Ленобласти
 **Код:** [`Property Pulse.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Property%20Pulse.sql)
 [`Property Pulse Dashboard`](https://datalens.yandex/0hi85722buzen)
@@ -177,6 +177,7 @@ My CV in [pdf].
 - Делать акцент на быстро реализуемые объекты в Ленобласти
 - Применять регионально-ориентированные маркетинговые стратегии
 
+---
 ### DarkForest — Анализ поведения игроков и внутриигровых покупок
 **Код:** [`DarkForest.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20DarkForest.sql)
 
@@ -205,7 +206,7 @@ My CV in [pdf].
 - Адаптировать внутриигровой магазин под разные поведенческие кластеры
 
 
-
+---
 ## Образование
 Университет Тор Вергата, Рим: 
 Бакалавриат, экономика и финансы
@@ -217,7 +218,7 @@ My CV in [pdf].
 Аналитика данных, Яндекс Практикум
 Курс Основы статистики (с отличием), Stepik
 
-
+---
 ## Контакты 
 - LinkedIn: [@elisei sorokin](https://www.linkedin.com/in/elisei-sorokin-8b6106193/)
 - Email: eliseisorokin.work@yandex.ru
