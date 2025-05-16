@@ -16,17 +16,13 @@ My CV in [pdf].
   - Python & SQL
     - [Afisha Perfomance](https://github.com/ElisSorokin/Random/edit/main/README.md#afisha-perfomance)
   - Python
-    - [Книги и e-коммерс](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-e-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81)
-    - [A/B Тесты](https://github.com/ElisSorokin/Random/edit/main/README.md#ab-%D1%82%D0%B5%D1%81%D1%82%D1%8B)
+    - [Books & Conversion — Анализ пользовательской активности и A/B-тест интерфейса](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-e-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81)
+    - [Recommendation Boost — A/B-тест нового алгоритма в приложении](https://github.com/ElisSorokin/Random/edit/main/README.md#ab-%D1%82%D0%B5%D1%81%D1%82%D1%8B)
   - SQL
-    - [Самокат — аналитика сервиса доставки еды](https://github.com/ElisSorokin/Random/edit/main/README.md#%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B5%D0%B4%D1%8B)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
-  - Power BI
+    - [Data-доставка — аналитика метрик сервиса доставки еды](https://github.com/ElisSorokin/Random/edit/main/README.md#%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B5%D0%B4%D1%8B)
+    - [Property Pulse — Аналитика рынка недвижимости СПб и Ленобласти](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0-%D0%B8-%D0%BB%D0%B5%D0%BD%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8)
+    - [DarkForest — Анализ поведения игроков и внутриигровых покупок](https://github.com/ElisSorokin/Random/edit/main/README.md#%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%BB%D0%B5%D1%81%D1%8C%D1%8F--%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0)
   
-
-
 - [Образование](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) 
 - [Контакты](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
 ## Проекты
@@ -63,8 +59,8 @@ My CV in [pdf].
 - Продвигать семейные события и развивать партнёрства в регионах
 
 ---
-### Книги и e-коммерс
-**Code:** [`Книги и e-коммерс.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+### Books & Conversion — Анализ пользовательской активности и A/B-тест интерфейса
+**Code:** [`Books & Conversion.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
 
 **Цель:** Анализ пользовательской активности в Яндекс.Книгах и оценка эффективности нового интерфейса интернет-магазина BitMotion Kit по результатам A/B-тестирования.
 
@@ -90,8 +86,8 @@ My CV in [pdf].
 **Вывод:** Новая версия интерфейса положительно влияет на конверсию. Рекомендовано внедрение.
 
 ---
-### A/B Тесты 
-**Code:** [`A/B тест.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+### Recommendation Boost — A/B-тест нового алгоритма в приложении
+**Code:** [`Recommendation Boost.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
 
 **Цель:** Оценка влияния нового алгоритма рекомендаций на поведение пользователей в приложении с помощью корректно спланированного и проведённого A/B-теста.
 
@@ -118,8 +114,8 @@ My CV in [pdf].
 **Вывод: Несмотря на статистическую значимость, прирост успешных сессий составляет всего 1.1%. Рекомендуется провести повторный тест с большей выборкой и длительностью для уточнения эффекта.
 
 
-### Самокат — аналитика сервиса доставки еды
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+### Data-доставка — аналитика метрик сервиса доставки еды
+**Code:** [`Data-доставка.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
 
 **Цель:** Рассчитать ключевые метрики для продукта, визуализировать их в интерактивном дашборде и на основе анализа предложить рекомендации для развития сервиса.
 
@@ -148,8 +144,9 @@ My CV in [pdf].
 - Укрепить партнёрство с лидерами по LTV и расширить ассортимент
 
 
-### Недвижимость Санкт-Петербурга и Ленобласти
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+### Property Pulse — Аналитика рынка недвижимости СПб и Ленобласти
+**Code:** [`Property Pulse.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+[`Property Pulse Dashboard`]()
 
 **Цель:** Определить наиболее перспективные сегменты рынка недвижимости в Санкт-Петербурге и Ленинградской области с учетом сезонных факторов, чтобы предложить бизнес-решения для оптимизации продаж и маркетинга.
 
@@ -177,8 +174,8 @@ My CV in [pdf].
 - Делать акцент на быстро реализуемые объекты в Ленобласти
 - Применять регионально-ориентированные маркетинговые стратегии
 
-### Секреты Темнолесья — внутриигровая аналитика
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+### DarkForest — Анализ поведения игроков и внутриигровых покупок
+**Code:** [`DarkForest.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
 **Цель:** Исследовать поведение игроков в фэнтези-игре «Секреты Темнолесья»: определить, кто чаще покупает внутриигровую валюту за реальные деньги, и как совершаются крупные внутриигровые покупки.
 
