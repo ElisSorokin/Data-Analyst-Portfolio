@@ -17,9 +17,9 @@ My CV in [pdf].
     - [Afisha Perfomance](https://github.com/ElisSorokin/Random/edit/main/README.md#afisha-perfomance)
   - Python
     - [Книги и e-коммерс](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-e-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [A/B Тесты](https://github.com/ElisSorokin/Random/edit/main/README.md#ab-%D1%82%D0%B5%D1%81%D1%82%D1%8B)
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Самокат — аналитика сервиса доставки еды](https://github.com/ElisSorokin/Random/edit/main/README.md#%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B5%D0%B4%D1%8B)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
@@ -47,9 +47,9 @@ My CV in [pdf].
 - Провёл EDA в Python и проверил гипотезу о различии активности пользователей на мобильных и десктопах (тест Манна-Уитни)
 - Выявил поведенческие тренды, сезонные паттерны и особенности популярных мероприятий
 
-**Навыки:** SQL, Python, визуализация, сегментация, проверка гипотез, построение метрик
+**Навыки:** PostgreSQL (SQL), Python, визуализация, сегментация, проверка гипотез, построение метрик
 
-**Технологии:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, SQL, Yandex DataLens.
+**Технологии:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, PostgreSQL (SQL), Yandex DataLens.
 
 **Результаты:** 
 - Осенью заказов было в 2.5 раза больше, чем летом
@@ -80,7 +80,7 @@ My CV in [pdf].
 
 **Навыки:** статистический анализ, проверка гипотез, анализ A/B-тестов, очистка данных
 
-**Технологии:** Python, Pandas, SciPy, Statsmodels, SQL
+**Технологии:** Python, Pandas, SciPy, Statsmodels, PostgreSQL (SQL)
 
 **Результаты:** 
 - Различия в активности пользователей из СПб и Москвы статистически незначимы (p > 0.05)
@@ -118,29 +118,91 @@ My CV in [pdf].
 **Вывод: Несмотря на статистическую значимость, прирост успешных сессий составляет всего 1.1%. Рекомендуется провести повторный тест с большей выборкой и длительностью для уточнения эффекта.
 
 
-### Covid 19 Data Exploration
+### Самокат — аналитика сервиса доставки еды
 **Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Цель:** Рассчитать ключевые метрики для продукта, визуализировать их в интерактивном дашборде и на основе анализа предложить рекомендации для развития сервиса.
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**Описание:** Выступая в роли аналитика сервиса доставки еды «Самокат», я разработал SQL-запросы для оценки динамики DAU, конверсии, среднего чека, LTV и Retention Rate. На основе этих данных построил дашборд в Yandex DataLens и сформулировал аналитические рекомендации.
 
-**Technology:** SQL Server
+**Что сделал:** 
+- Составил SQL-запросы для расчета ключевых метрик: DAU, Conversion Rate, Average Check, LTV, Retention Rate
+- Построил интерактивный дашборд в DataLens с графиками, таблицами и фильтрами
+- Выполнил анализ сезонных и поведенческих трендов
+- Подготовил отчет с бизнес-выводами и предложениями по улучшению продукта
+
+**Навыки:** SQL-аналитика, визуализация, построение продуктовых метрик, формирование гипотез
+
+**Технологии:** PostgreSQL (SQL), Yandex DataLens
+
+**Результаты:**
+- DAU колебался, но имел положительную динамику во второй половине июня
+- Conversion Rate вырос с 18% до 43% — признак улучшения воронки
+- Средний чек увеличился на 8.7% (с 135.88₽ до 147.66₽)
+- Retention 7 day остаётся низким — 5% в мае и 3% в июне
+- Топовые рестораны по LTV — «Гурманское Наслаждение», «Гастрономический Шторм», «Шоколадный Рай»
+
+**Рекомендации:**
+- Провести дополнительный анализ факторов снижения удержания
+- Внедрить персонализированные промо и улучшить onboarding
+- Укрепить партнёрство с лидерами по LTV и расширить ассортимент
 
 
-
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
+### Недвижимость Санкт-Петербурга и Ленобласти
 **Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+**Цель:** Определить наиболее перспективные сегменты рынка недвижимости в Санкт-Петербурге и Ленинградской области с учетом сезонных факторов, чтобы предложить бизнес-решения для оптимизации продаж и маркетинга.
 
-**Skills:** data cleaning, data analysis, data visualization.
+**Описание:** В проекте проведён анализ сроков активности объявлений и сезонных колебаний на рынке недвижимости региона. Исследованы различия в поведении покупателей и продавцов в Петербурге и Ленобласти. Выделены ключевые населённые пункты с наибольшей активностью.
 
-**Technology:** Tidyverse 
+**Что сделал:** 
+- Подготовил и проанализировал данные по публикациям и закрытию объявлений
+- Оценил сезонность сделок: выделены пики активности по временам года
+- Выявил ключевые точки активности в Ленинградской области
+- Сравнил поведение продавцов и покупателей в разных сегментах
 
+**Навыки:** SQL-анализ, сезонные тренды, исследование поведения пользователей
+
+**Инструменты:** PostgreSQL (SQL), Yandex DataLens
+
+**Результаты:**
+- В Санкт-Петербурге высокая продолжительность активности объявлений связана с дорогими объектами
+- В Ленобласти — более быстрые сделки и привлекательные цены
+- Публикация — пик осенью; покупки — зимой и весной
+- Топ по активности: Мурино, Кудрово, Шушары
+- Высокий процент успешных продаж в этих локациях
+
+**Рекомендации:**
+- Учитывать сезонность при запуске рекламных кампаний
+- Делать акцент на быстро реализуемые объекты в Ленобласти
+- Применять регионально-ориентированные маркетинговые стратегии
+
+### Секреты Темнолесья — внутриигровая аналитика
+**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+
+**Цель:** Исследовать поведение игроков в фэнтези-игре «Секреты Темнолесья»: определить, кто чаще покупает внутриигровую валюту за реальные деньги, и как совершаются крупные внутриигровые покупки.
+
+**Описание:** Проект направлен на изучение монетизации внутри игры. Особое внимание уделено анализу связи между расой персонажа и склонностью к покупкам, а также выявлению паттернов при приобретении эпических предметов.
+
+**Что сделал:** 
+- Провёл исследовательский анализ поведения игроков по базе транзакций
+- Рассчитал долю платящих пользователей и её зависимость от расы персонажа
+- Изучил этапы покупки эпических предметов: частоту, объёмы, временные паттерны
+- Подготовил аналитическую записку для маркетинговой команды с рекомендациями
+- 
+**Навыки:** SQL-аналитика, поведенческий анализ, внутриигровая монетизация
+  
+**Инструменты:** PostgreSQL (SQL)
+
+**Результаты:**
+- Доля платящих игроков зависит от расы: у некоторых рас — в 1.5–2 раза выше
+- Покупка эпических предметов часто совершается после резкого роста внутриигровой активности
+- Обнаружены три поведенческих кластера игроков: спонтанные покупатели, стратеги и регулярные донатеры
+
+**Рекомендации:**
+- Таргетировать специальные предложения по расам с высокой склонностью к оплате
+- Использовать триггеры активности для продвижения эпических предметов
+- Адаптировать внутриигровой магазин под разные поведенческие кластеры
 
 
 
