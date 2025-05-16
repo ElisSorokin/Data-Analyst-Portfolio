@@ -215,10 +215,10 @@ My CV in [pdf].
 
 Курсы:
 Аналитика данных, Яндекс Практикум
-Курс Основы статистики (с отличием)
+Курс Основы статистики (с отличием), Stepik
 
 
 ## Контакты 
-- LinkedIn: [@elisei sorokin](www.linkedin.com/in/elisei-sorokin-8b6106193)
+- LinkedIn: [@eliseisorokin](https://www.linkedin.com/in/elisei-sorokin-8b6106193/)
 - Email: eliseisorokin.work@yandex.ru
 
