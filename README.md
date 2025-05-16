@@ -219,6 +219,6 @@ My CV in [pdf].
 
 
 ## Контакты 
-- LinkedIn: [@eliseisorokin](https://www.linkedin.com/in/elisei-sorokin-8b6106193/)
+- LinkedIn: [@elisei sorokin](https://www.linkedin.com/in/elisei-sorokin-8b6106193/)
 - Email: eliseisorokin.work@yandex.ru
 
