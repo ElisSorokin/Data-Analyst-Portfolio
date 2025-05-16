@@ -25,6 +25,7 @@ My CV in [pdf].
   
 - [Образование](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) 
 - [Контакты](https://github.com/ElisSorokin/Random/edit/main/README.md#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
+
 ## Проекты
 В этом разделе представлены проекты по анализу данных с кратким описанием задач и используемого технологического стека.
 
