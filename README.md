@@ -1,220 +1,220 @@
-# Сорокин Елисей  - Data Analyst Portfolio
-## Обо мне 
-Привет! Меня зовут Сорокин Елисей! У меня есть прочная база в математике и статистике, а также опыт обучения в области экономики и финансов в университете Tor Vergata в Риме. Сейчас я активно развиваюсь в сфере анализа данных и применяю полученные знания на практике.
+# Elisei Sorokin  - Data Analyst Portfolio
+## About Me
+Hi! I'm Elisei Sorokin. I have a strong background in mathematics and statistics, and I studied economics and finance at the University of Tor Vergata in Rome. Currently, I’m actively developing in the field of data analysis and applying my knowledge in practice.
 
-В процессе обучения и работы я освоил работу с большими и сложными данными, анализировал пользовательское поведение, строил метрики и проверял гипотезы с помощью Python и SQL. Также я получил опыт проведения статистических тестов и A/B-тестирования для принятия обоснованных решений.
+Throughout my studies and work, I’ve learned how to work with large and complex datasets, analyze user behavior, build metrics, and test hypotheses using Python and SQL. I’ve also gained experience in conducting statistical and A/B tests to support data-driven decision-making.
 
-В свободное время я изучаю новые инструменты для анализа и визуализации данных, совершенствую навыки программирования и статистики. Мне нравится работать как в команде, так и самостоятельно, всегда стремлюсь находить новые инсайты и применять знания для решения реальных бизнес-задач.
+In my free time, I explore new tools for data analysis and visualization, and I continuously improve my skills in programming and statistics. I enjoy working both independently and in a team and always strive to uncover valuable insights and apply them to real business problems.
+My CV is available in[[pdf](https://github.com/ElisSorokin/PortfolioProjects/blob/main/Sorokin%20Elisei.pdf)].
 
-Мое CV в [[pdf](https://github.com/ElisSorokin/PortfolioProjects/blob/main/Sorokin%20Elisei.pdf)].
+This repository showcases my data analysis skills, project work, and learning progress in data analysis and data science.
 
-Это репозиторий, в котором я демонстрирую свои навыки, делюсь проектами и отслеживаю прогресс в области анализа данных и Data Science.
-
-## Содержание
-- [Обо мне](https://github.com/ElisSorokin/Data-Analyst-Portfolio#%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5)
-- [Проекты](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
+## Table of Contents
+- [About Me](https://github.com/ElisSorokin/Data-Analyst-Portfolio#%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5)
+- [Projects](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
   - Python & SQL
     - [Afisha Perfomance](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#afisha-perfomance--%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D1%80%D0%B5%D0%BD%D0%B4%D0%BE%D0%B2-2024)
   - Python
-    - [Books & Conversion — Анализ пользовательской активности и A/B-тест интерфейса](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#books--conversion--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-ab-%D1%82%D0%B5%D1%81%D1%82-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0)
-    - [Recommendation Boost — A/B-тест нового алгоритма в приложении](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#recommendation-boost--ab-%D1%82%D0%B5%D1%81%D1%82-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8)
+    - [Books & Conversion — User Activity Analysis & Interface A/B Test](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#books--conversion--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-ab-%D1%82%D0%B5%D1%81%D1%82-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0)
+    - [Recommendation Boost — A/B Test of a New Algorithm](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#recommendation-boost--ab-%D1%82%D0%B5%D1%81%D1%82-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8)
   - SQL
-    - [Data-доставка — аналитика метрик сервиса доставки еды](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#data-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B5%D0%B4%D1%8B)
-    - [Property Pulse — Аналитика рынка недвижимости СПб и Ленобласти](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#property-pulse--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%BF%D0%B1-%D0%B8-%D0%BB%D0%B5%D0%BD%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8)
-    - [DarkForest — Анализ поведения игроков и внутриигровых покупок](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#darkforest--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2-%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA)
+    - [Data-доставка — Analytics of a Food Delivery Service](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#data-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B5%D0%B4%D1%8B)
+    - [Property Pulse — Real Estate Market Analytics in St. Petersburg and the Region](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#property-pulse--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%BF%D0%B1-%D0%B8-%D0%BB%D0%B5%D0%BD%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8)
+    - [DarkForest — Player Behavior & In-Game Purchases Analysis](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#darkforest--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2-%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA)
   
-- [Образование](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) 
-- [Контакты](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
+- [Education](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) 
+- [Contacts](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
 
-## Проекты
-В этом разделе представлены проекты по анализу данных с кратким описанием задач и используемого технологического стека.
+## Projects
+This section presents data analysis projects with brief descriptions of tasks, tools, and outcomes.
 
-### Afisha Perfomance — Исследование пользовательской активности и сезонных трендов 2024
-**Код:** [`Afisha_Perfomance.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT%20(Final)%20-%20Afisha%20Perfomance.ipynb)
+### Afisha Performance — User Activity and Seasonal Trends Analysis
+**Code:** [`Afisha_Perfomance.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT%20(Final)%20-%20Afisha%20Perfomance.ipynb)
 [`Afisha_Perfomance.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Afisha%20Perfomance.sql)
 [`Afisha_Perfomance Dashboard`](https://datalens.yandex/cnchy35jrh7ky)
 
-**Цель:** Построить дашборд для отслеживания бизнес-показателей и провести исследовательский анализ пользовательского поведения в сервисе «Афиша».
+**Goal:** Build a dashboard to monitor business KPIs and explore user behavior on the Afisha platform.
 
-**Описание:** В рамках проекта выступал в роли аналитика команды Афиши. Нужно было подготовить дашборд в Yandex DataLens с ключевыми метриками и провести исследовательский анализ в Python. Задача включала анализ пользовательских предпочтений осенью 2024 года и проверку гипотез о поведении мобильных и десктопных пользователей.
+**Description:** As a data analyst on the Afisha team, I developed an interactive dashboard in Yandex DataLens and conducted an in-depth behavioral analysis using Python. The analysis focused on user preferences during autumn 2024 and tested hypotheses about mobile vs desktop user behavior.
 
-**Что сделал:**
-- Загрузил, очистил и подготовил данные, добавил признаки (выручка, средний чек, сезонность)
-- Рассчитал метрики: выручка, средняя стоимость билета, распределения по категориям
-- Построил дашборд в Yandex DataLens с фильтрами, сегментацией и динамикой по KPI
-- Провёл EDA в Python и проверил гипотезу о различии активности пользователей на мобильных и десктопах (тест Манна-Уитни)
-- Выявил поведенческие тренды, сезонные паттерны и особенности популярных мероприятий
+**Key Contributions:**
+- Cleaned and transformed data; engineered new features (revenue, AOV, seasonality)
+- Calculated key metrics: revenue, average ticket price, category distribution
+- Built a dashboard with filters, segmentation, and KPI dynamics
+- Conducted EDA and tested behavioral differences using Mann–Whitney U test
+- Identified user behavior trends and seasonal patterns
 
-**Навыки:** PostgreSQL (SQL), Python, визуализация, сегментация, проверка гипотез, построение метрик
+**Skills:** PostgreSQL (SQL), Python, hypothesis testing, segmentation, metric building, EDA.
 
-**Технологии:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, PostgreSQL (SQL), Yandex DataLens.
+**Tools:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, PostgreSQL (SQL), Yandex DataLens.
 
-**Результаты:** 
-- Осенью заказов было в 2.5 раза больше, чем летом
-- Мобильные пользователи активнее (8.73 заказа против 6.66, p < 0.0001)
-- Наиболее популярны театральные, семейные и спортивные мероприятия
-- Поведение пользователей носит недельную цикличность (пики по вторникам и четвергам)
-
-**Выводы и рекомендации:**
-- Развивать мобильное направление
-- Запускать сезонные маркетинговые кампании
-- Продвигать семейные события и развивать партнёрства в регионах
-
----
-### Books & Conversion — Анализ пользовательской активности и A/B-тест интерфейса
-**Код:** [`Books & Conversion.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT6%20-%20Books%20%26%20Conversion%20%E2%80%94%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0.ipynb)
-
-**Цель:** Анализ пользовательской активности в Яндекс.Книгах и оценка эффективности нового интерфейса интернет-магазина BitMotion Kit по результатам A/B-тестирования.
-
-**Описание:** Проект включает два независимых кейса. В первом анализировалась активность пользователей из разных городов на платформе Яндекс.Книги, во втором — данные A/B-теста интернет-магазина, направленного на улучшение конверсии. Требовалось рассчитать метрики, проверить гипотезы, проанализировать корректность эксперимента и интерпретировать результаты.
-
-**Что сделал:**
-- Загрузил и предобработал данные, устранил дубликаты
-- Рассчитал метрики и подготовил выборки для анализа активности по городам
-- Провёл t-тест и тест Манна–Уитни для проверки различий между Москвой и Санкт-Петербургом
-- Проанализировал корректность проведения A/B-теста (распределение, пересечения, разбалансировка)
-- Рассчитал конверсии, провёл z-тест для оценки различий между контрольной и тестовой группами
-- Подготовил аналитическую записку с бизнес-интерпретацией
-
-**Навыки:** статистический анализ, проверка гипотез, анализ A/B-тестов, очистка данных
-
-**Технологии:** Python, Pandas, SciPy, Statsmodels, PostgreSQL (SQL)
-
-**Результаты:** 
-- Различия в активности пользователей из СПб и Москвы статистически незначимы (p > 0.05)
-- Распределения времени имеют асимметрию — медиана устойчивее к выбросам
-- A/B-тест показал значимый рост конверсии в тестовой группе на 1.7 п.п. (p-value = 0.0283)
-
-**Вывод:** Новая версия интерфейса положительно влияет на конверсию. Рекомендовано внедрение.
+**Results:** 
+- Autumn order volume 2.5× higher than in summer
+- Mobile users showed higher activity (8.73 vs 6.66 orders, p < 0.0001)
+- Most popular: theatre, family, and sports events
+- Weekly activity patterns with peaks on Tuesdays and Thursdays
+  
+**Recommendations:**
+- Invest in mobile development
+- Launch seasonal marketing campaigns
+- Promote family events and strengthen regional partnerships
 
 ---
-### Recommendation Boost — A/B-тест нового алгоритма в приложении
-**Код:** [`Recommendation Boost.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT5%20-%20Recommendation%20Boost%20%E2%80%94%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.ipynb)
+### Books & Conversion — User Activity & A/B Test Analysis
+**Code:** [`Books & Conversion.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT6%20-%20Books%20%26%20Conversion%20%E2%80%94%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0.ipynb)
 
-**Цель:** Оценка влияния нового алгоритма рекомендаций на поведение пользователей в приложении с помощью корректно спланированного и проведённого A/B-теста.
+**Goal:**Analyze user activity on Yandex.Books and evaluate the impact of a new e-commerce UI via A/B testing.
 
-**Описание:** Проект посвящён полному циклу работы с A/B-тестом: от расчёта необходимого объема выборки до анализа результатов и формулирования бизнес-выводов. Исследуется влияние нового алгоритма рекомендаций на успешность сессий в мобильном приложении.
+**Description:** This project contains two independent cases:
+1 - Exploring user activity by city on Yandex.Books
+2 - Evaluating an A/B test for a new interface on the BitMotion Kit e-commerce platform
 
-**Что сделал:**
-- Проанализировал число регистраций и распределение пользователей по группам
-- Рассчитал среднее количество просмотренных страниц в сессиях
-- Подготовил параметры теста (α, β, MDE, размер выборки)
-- Проверил корректность распределения, сбалансированность по группам и длительность эксперимента
-- Оценил статистическую значимость различий с помощью z-теста
-- Сформулировал интерпретации и рекомендации
+**Key Contributions:**
+- Cleaned datasets, removed duplicates
+- Calculated activity metrics by region and prepared test samples
+- Used t-test and Mann–Whitney test to compare users in Moscow vs St. Petersburg
+- Validated test design (balance, overlap, duration)
+- Calculated conversion rates and applied z-test for comparison
+- Prepared a business report with actionable insights
 
-**Навыки:**  A/B-тестирование, проверка гипотез, оценка достоверности, исследовательский анализ
+**Skills:** tatistical analysis, A/B testing, hypothesis testing, data cleaning
 
-**Технологии:** Python, Pandas, SciPy, Statsmodels
+**Tools:** Python, Pandas, SciPy, Statsmodels, PostgreSQL (SQL)
 
-**Результаты:**
-- Необходимый размер выборки: 17 441 пользователей на группу
-- Фактический размер: 15 163 в A, 15 416 в B, тест длился 4 дня
-- Доля успешных сессий: 30.8% (A) против 31.8% (B)
-- p-value = 0.00015 → статистически значимое улучшение
-- Но: эффект слишком мал для практической реализации
+**Results:** 
+- No statistically significant difference in user activity between cities (p > 0.05)
+- Median values were more robust due to skewed time distributions
+- A/B test showed a 1.7 pp conversion increase (p = 0.0283)
 
-**Вывод:** Несмотря на статистическую значимость, прирост успешных сессий составляет всего 1.1%. Рекомендуется провести повторный тест с большей выборкой и длительностью для уточнения эффекта.
-
----
-### Data-доставка — аналитика метрик сервиса доставки еды
-**Код:** [`Data-доставка.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Data%20-%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.sql)
-[`Data-доставка Dashboard`](https://datalens.yandex/eds6ox6bcyqs0)
-
-**Цель:** Рассчитать ключевые метрики для продукта, визуализировать их в интерактивном дашборде и на основе анализа предложить рекомендации для развития сервиса.
-
-**Описание:** Выступая в роли аналитика сервиса доставки еды, я разработал SQL-запросы для оценки динамики DAU, конверсии, среднего чека, LTV и Retention Rate. На основе этих данных построил дашборд в Yandex DataLens и сформулировал аналитические рекомендации.
-
-**Что сделал:** 
-- Составил SQL-запросы для расчета ключевых метрик: DAU, Conversion Rate, Average Check, LTV, Retention Rate
-- Построил интерактивный дашборд в DataLens с графиками, таблицами и фильтрами
-- Выполнил анализ сезонных и поведенческих трендов
-- Подготовил отчет с бизнес-выводами и предложениями по улучшению продукта
-
-**Навыки:** SQL-аналитика, визуализация, построение продуктовых метрик, формирование гипотез
-
-**Технологии:** PostgreSQL (SQL), Yandex DataLens
-
-**Результаты:**
-- DAU колебался, но имел положительную динамику во второй половине июня
-- Conversion Rate вырос с 18% до 43% — признак улучшения воронки
-- Средний чек увеличился на 8.7% (с 135.88₽ до 147.66₽)
-- Retention 7 day остаётся низким — 5% в мае и 3% в июне
-- Топовые рестораны по LTV — «Гурманское Наслаждение», «Гастрономический Шторм», «Шоколадный Рай»
-
-**Рекомендации:**
-- Провести дополнительный анализ факторов снижения удержания
-- Внедрить персонализированные промо и улучшить onboarding
-- Укрепить партнёрство с лидерами по LTV и расширить ассортимент
+**Conclusion: ** The new interface had a positive effect on conversion and was recommended for rollout.
 
 ---
-### Property Pulse — Аналитика рынка недвижимости СПб и Ленобласти
-**Код:** [`Property Pulse.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Property%20Pulse.sql)
+### Recommendation Boost — A/B Testing a New Algorithm
+**Code:** [`Recommendation Boost.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT5%20-%20Recommendation%20Boost%20%E2%80%94%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.ipynb)
+
+**Goal:** Evaluate the effect of a new recommendation algorithm on user behavior via a properly designed A/B test.
+
+**Description:** End-to-end A/B test analysis—from calculating the required sample size to drawing business conclusions.
+
+**Key Contributions:**
+- Analyzed user registrations and group assignments
+- Measured page views per session
+- Calculated α, β, MDE, and sample size
+- Checked group balance and experiment validity
+- Used z-test to evaluate statistical significance
+- Interpreted results and suggested next steps
+
+**Skills:**   A/B testing, statistical validation, experiment design
+
+**Tools:** Python, Pandas, SciPy, Statsmodels
+
+**Results:**
+- Required sample: 17,441 users per group
+- Actual: 15,163 (A), 15,416 (B), test duration: 4 days
+- Successful session rate: 30.8% (A) vs 31.8% (B)
+- p = 0.00015 → statistically significant, but practically small effect
+
+**Conclusion:** Although the test is statistically valid, the practical gain (1.1%) is minimal. A longer and larger-scale test is recommended.
+
+---
+### Data-Delivery — Analytics for a Food Delivery Service
+**Code** [`Data-Delivery.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Data%20-%20%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.sql)
+[`Data-Delivery Dashboard`](https://datalens.yandex/eds6ox6bcyqs0)
+
+**Goal:** Calculate product KPIs, build an interactive dashboard, and provide insights for business development.
+
+**Description:** As an analyst for a food delivery app, I calculated metrics like DAU, conversion, AOV, LTV, and retention using SQL and visualized them in Yandex DataLens.
+
+**Key Contributions:** 
+- Built SQL queries for KPI calculation
+- Created an interactive dashboard with filters and visualizations
+- Analyzed seasonal and behavioral trends
+- Prepared a business report with recommendations
+
+**Skills:** SQL analysis, metric building, dashboarding, behavioral insights
+
+**Tools:** PostgreSQL (SQL), Yandex DataLens
+
+**Results:**
+- DAU showed upward trend in late June
+- Conversion improved from 18% to 43%
+- Average order value grew by 8.7%
+- 7-day retention dropped (5% in May → 3% in June)
+- Top LTV restaurants: "Gourmet Delight", "Gastro Storm", "Chocolate Heaven"
+
+**Recommendations:**
+- Analyze reasons for low retention
+- Launch personalized promotions
+- Strengthen partnerships with top-performing restaurants
+
+---
+### Property Pulse — Real Estate Market Analysis (St. Petersburg & Region)
+**Code:** [`Property Pulse.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20Property%20Pulse.sql)
 [`Property Pulse Dashboard`](https://datalens.yandex/0hi85722buzen)
 
-**Цель:** Определить наиболее перспективные сегменты рынка недвижимости в Санкт-Петербурге и Ленинградской области с учетом сезонных факторов, чтобы предложить бизнес-решения для оптимизации продаж и маркетинга и визуализировать ключевые метрики на интерактивном дашборде.
+**Goal:** Identify promising market segments and visualize key real estate trends in St. Petersburg and Leningrad region.
 
-**Описание:** В проекте проведён анализ сроков активности объявлений и сезонных колебаний на рынке недвижимости региона. Исследованы различия в поведении покупателей и продавцов в Петербурге и Ленобласти. Выделены ключевые населённые пункты с наибольшей активностью. Подготовлен дашборд в Yandex DataLens с ключевыми метриками.
+**Description:** Analyzed listing activity, buyer/seller behavior, and seasonal patterns. Created a dashboard with regional breakdown and activity hotspots.
 
-**Что сделал:** 
-- Подготовил и проанализировал данные по публикациям и закрытию объявлений
-- Оценил сезонность сделок: выделены пики активности по временам года
-- Выявил ключевые точки активности в Ленинградской области
-- Сравнил поведение продавцов и покупателей в разных сегментах
+**Key Contributions:** 
+- Analyzed listing durations and seasonal peaks
+- Identified high-activity zones in the Leningrad region
+- Compared buyer vs seller behavior across regions
 
-**Навыки:** SQL-анализ, сезонные тренды, исследование поведения пользователей
+**Skills:**SQL, seasonal analysis, behavioral trends
 
-**Инструменты:** PostgreSQL (SQL), Yandex DataLens
+**Tools:** PostgreSQL (SQL), Yandex DataLens
 
-**Результаты:**
-- В Санкт-Петербурге высокая продолжительность активности объявлений связана с дорогими объектами
-- В Ленобласти — более быстрые сделки и привлекательные цены
-- Публикация — пик осенью; покупки — зимой и весной
-- Топ по активности: Мурино, Кудрово, Шушары
-- Высокий процент успешных продаж в этих локациях
+**Results:**
+- Expensive listings in St. Petersburg remain active longer
+- Faster deals in Leningrad region with more affordable options
+- Listings peak in autumn; purchases peak in winter and spring
+- Top localities: Murino, Kudrovo, Shushary
 
-**Рекомендации:**
-- Учитывать сезонность при запуске рекламных кампаний
-- Делать акцент на быстро реализуемые объекты в Ленобласти
-- Применять регионально-ориентированные маркетинговые стратегии
+**Recommendations:**
+- Align marketing with seasonal patterns
+- Focus on fast-moving regional properties
+- Use localized strategies for different market zones
 
 ---
-### DarkForest — Анализ поведения игроков и внутриигровых покупок
-**Код:** [`DarkForest.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20DarkForest.sql)
+### DarkForest — In-Game Purchase Behavior Analysis
+**Code:** [`DarkForest.sql`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/SQL%20-%20DarkForest.sql)
 
-**Цель:** Исследовать поведение игроков в фэнтези-игре «Секреты Темнолесья»: определить, кто чаще покупает внутриигровую валюту за реальные деньги, и как совершаются крупные внутриигровые покупки.
+**Goal:**Analyze monetization patterns in the fantasy game "Secrets of DarkForest" and identify user segments more likely to spend.
 
-**Описание:** Проект направлен на изучение монетизации внутри игры. Особое внимание уделено анализу связи между расой персонажа и склонностью к покупкам, а также выявлению паттернов при приобретении эпических предметов.
+**Description:** Studied player behavior and transaction logs to understand purchasing trends for in-game currency and high-value items.
 
-**Что сделал:** 
-- Провёл исследовательский анализ поведения игроков по базе транзакций
-- Рассчитал долю платящих пользователей и её зависимость от расы персонажа
-- Изучил этапы покупки эпических предметов: частоту, объёмы, временные паттерны
-- Подготовил аналитическую записку для маркетинговой команды с рекомендациями
-- 
-**Навыки:** SQL-аналитика, поведенческий анализ, внутриигровая монетизация
+**Key Contributions:** 
+- Calculated paying user share by character race
+- Analyzed purchase flow for epic items
+- Identified behavioral clusters among players
+- Prepared a strategic memo for the marketing team
   
-**Инструменты:** PostgreSQL (SQL)
+**Skills** SQL, behavioral segmentation, gaming analytics
+  
+**Tools:** PostgreSQL (SQL)
 
-**Результаты:**
-- Доля платящих игроков зависит от расы: у некоторых рас — в 1.5–2 раза выше
-- Покупка эпических предметов часто совершается после резкого роста внутриигровой активности
-- Обнаружены три поведенческих кластера игроков: спонтанные покупатели, стратеги и регулярные донатеры
+**Results:**
+- Some races had 1.5–2× higher payment likelihood
+- Epic purchases often followed spikes in in-game activity
+- Identified 3 user segments: impulse buyers, strategists, regular spenders
 
-**Рекомендации:**
-- Таргетировать специальные предложения по расам с высокой склонностью к оплате
-- Использовать триггеры активности для продвижения эпических предметов
-- Адаптировать внутриигровой магазин под разные поведенческие кластеры
+**Recommendations:**
+- Personalize offers by character race
+- Trigger promotions after high activity
+- Tailor in-game shop to different player types
 
 
 ---
-## Образование
-Университет Тор Вергата, Рим: 
-Бакалавриат, экономика и финансы
+## Education
+University of Rome Tor Vergata:
+Bachelor’s Degree in Economics and Finance
 
-Математическая школа
-Среднее образование, профиль – математика
+Mathematics High School — Specialization in Advanced Mathematics
 
-Курсы:
-Аналитика данных, Яндекс Практикум
-Курс Основы статистики (с отличием), Stepik
+Courses:
+- Data Analytics – Yandex Practicum, 2025
+- Data Engineer: From Zero to Junior – NovaData (via Stepik), 2025
+- Managed Service for ClickHouse – Yandex Practicum, 2025
+- Docker from Scratch – Karpov.Courses, 2025
+- Introduction to Statistics – Institute of Bioinformatics (via Stepik), 2025
