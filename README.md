@@ -18,7 +18,7 @@ This repository showcases my data analysis skills, project work, and learning pr
     - [Books & Conversion — User Activity Analysis & Interface A/B Test](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#books--conversion--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-ab-%D1%82%D0%B5%D1%81%D1%82-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0)
     - [Recommendation Boost — A/B Test of a New Algorithm](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#recommendation-boost--ab-%D1%82%D0%B5%D1%81%D1%82-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0-%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8)
   - SQL
-    - [Data-доставка — Analytics of a Food Delivery Service](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#data-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B5%D0%B4%D1%8B)
+    - [Data-Delivery — Analytics of a Food Delivery Service](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#data-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8-%D0%B5%D0%B4%D1%8B)
     - [Property Pulse — Real Estate Market Analytics in St. Petersburg and the Region](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#property-pulse--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D1%81%D0%BF%D0%B1-%D0%B8-%D0%BB%D0%B5%D0%BD%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8)
     - [DarkForest — Player Behavior & In-Game Purchases Analysis](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#darkforest--%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%BE%D0%B2-%D0%B8-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA)
   
@@ -63,7 +63,7 @@ This section presents data analysis projects with brief descriptions of tasks, t
 ### Books & Conversion — User Activity & A/B Test Analysis
 **Code:** [`Books & Conversion.ipynb`](https://github.com/ElisSorokin/PortfolioProjects/blob/main/PT6%20-%20Books%20%26%20Conversion%20%E2%80%94%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0.ipynb)
 
-**Goal:**Analyze user activity on Yandex.Books and evaluate the impact of a new e-commerce UI via A/B testing.
+**Goal:** Analyze user activity on Yandex.Books and evaluate the impact of a new e-commerce UI via A/B testing.
 
 **Description:** This project contains two independent cases:
 1 - Exploring user activity by city on Yandex.Books
@@ -86,7 +86,7 @@ This section presents data analysis projects with brief descriptions of tasks, t
 - Median values were more robust due to skewed time distributions
 - A/B test showed a 1.7 pp conversion increase (p = 0.0283)
 
-**Conclusion: ** The new interface had a positive effect on conversion and was recommended for rollout.
+**Conclusion:** The new interface had a positive effect on conversion and was recommended for rollout.
 
 ---
 ### Recommendation Boost — A/B Testing a New Algorithm
