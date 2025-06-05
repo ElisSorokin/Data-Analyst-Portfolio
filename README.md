@@ -22,7 +22,8 @@ This repository showcases my data analysis skills, project work, and learning pr
     - [Property Pulse — Real Estate Market Analytics in St. Petersburg and the Region](https://github.com/ElisSorokin/Data-Analyst-Portfolio#property-pulse--real-estate-market-analysis-st-petersburg--region)
     - [DarkForest — Player Behavior & In-Game Purchases Analysis](https://github.com/ElisSorokin/Data-Analyst-Portfolio#darkforest--in-game-purchase-behavior-analysis)
   
-- [Education](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) 
+- [Education](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#education)
+- [Courses](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#courses)
 - [Contacts](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
 
 ## Projects
@@ -219,7 +220,7 @@ Mathematics High School — Specialization in Advanced Mathematics
 - Docker from Scratch – Karpov.Courses, 2025
 - Introduction to Statistics – Institute of Bioinformatics (via Stepik), 2025
 
-##Contacts 
+## Contacts 
 - telegram - @elisei_sorokin
 - email - eliseisorokin.work@gmail.com
 - linkedIn - @elissorokin
