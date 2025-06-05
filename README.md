@@ -24,7 +24,7 @@ This repository showcases my data analysis skills, project work, and learning pr
   
 - [Education](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#education)
 - [Courses](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#courses)
-- [Contacts](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
+- [Contacts](https://github.com/ElisSorokin/Data-Analyst-Portfolio?tab=readme-ov-file#contacts)
 
 ## Projects
 This section presents data analysis projects with brief descriptions of tasks, tools, and outcomes.
