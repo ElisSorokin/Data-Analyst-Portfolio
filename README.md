@@ -222,5 +222,5 @@ Mathematics High School — Specialization in Advanced Mathematics
 
 ## Contacts 
 - telegram - @elisei_sorokin
-- email - eliseisorokin.work@gmail.com
-- linkedIn - @elissorokin
+- Email - eliseisorokin.work@gmail.com
+- LinkedIn: [@elisei sorokin](https://www.linkedin.com/in/elisei-sorokin-8b6106193/)
