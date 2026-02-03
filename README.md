@@ -5,7 +5,7 @@ Hi! I'm Elisei Sorokin. I have a strong background in mathematics and statistics
 Throughout my studies and work, I’ve learned how to work with large and complex datasets, analyze user behavior, build metrics, and test hypotheses using Python and SQL. I’ve also gained experience in conducting statistical and A/B tests to support data-driven decision-making.
 
 In my free time, I explore new tools for data analysis and visualization, and I continuously improve my skills in programming and statistics. I enjoy working both independently and in a team and always strive to uncover valuable insights and apply them to real business problems.
-My CV is available in[[pdf](https://github.com/ElisSorokin/PortfolioProjects/blob/main/Sorokin%20Elisei%20(1).pdf)].
+My CV is available in[[pdf](https://github.com/ElisSorokin/PortfolioProjects/blob/main/Sorokin%20Elisei%20(3).pdf)].
 
 This repository showcases my data analysis skills, project work, and learning progress in data analysis and data science.
 
